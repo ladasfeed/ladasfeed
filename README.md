@@ -1,13 +1,13 @@
 <div align=center><h1>✨ Welcome to my github profile ✨<h1/></div>
 
 ![Group 45-min](https://github.com/ladasfeed/ladasfeed/assets/57018343/26c5041b-0a86-4538-a885-5cca85792bed)
-<a href="https://t.me/vvoya_ger">
+<a target="_blank" href="https://t.me/vvoya_ger">
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/daniil-sobolev-b22058222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a target="_blank" href="https://www.linkedin.com/in/daniil-sobolev-b22058222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:donkaban597@gmail.com">
+<a target="_blank" href="mailto:donkaban597@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
