@@ -1,4 +1,4 @@
-<div align=center><h1>✨ Welcome to my github profile ✨<h1/></div>
+<div align=center><h1>✨ Be based, not basic ✨<h1/></div>
 
 ![Group 45-min](https://github.com/ladasfeed/ladasfeed/assets/57018343/26c5041b-0a86-4538-a885-5cca85792bed)
 <br/>
