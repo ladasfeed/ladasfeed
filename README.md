@@ -19,7 +19,7 @@
 <br/><br/>
 
 ### 📌 Currently i am working on:
-- 🆗 [7ate9](7ate9.pro) - simple blog where you can easily publish your articles.
+- 🆗 [7ate9](7ate9.pro) - simple blog where you can easily publish your articles. https://7ate9.pro/
 - 🔜 ladasfeed-production.online - personal website
 - 🔜 Games net labs - a web platform for mini games 
 
